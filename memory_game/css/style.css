@@ -63,3 +63,16 @@ font-size: 0;
 	color: #f15B31;
 	font-weight: 700;
 }
+.button:hover {
+	background-color: #0D2C40;
+}
+.button {
+	color: #ffffff;
+	font-size: 150%;
+	border: none;
+	margin: 4px 2px;
+	background-color: #00a6b3;
+	border-radius: 15%;
+	text-transform: uppercase;
+	padding: 10px;
+}
